@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Set the name of the Java process to monitor
+JAVA_PROCESS_NAME=$(ps aux | grep '[j]ava' | awk '{print $NF}' | head -n 1)
+echo "Monitoring Java process: $JAVA_PROCESS_NAME"
+
+while sleep 1
+do
+    # Check if the Java process is running or not
+    if pgrep -f "$JAVA_PROCESS_NAME" > /dev/null
+    then
+        # If the process is running, send a metric to Pushgateway with a value of 1
+        VAR="java_process_status{status=\"running\",process_name=\"$JAVA_PROCESS_NAME\"} 1"
+    else
+        # If the process is not running, send a metric to Pushgateway with a value of 0
+        VAR="java_process_status{status=\"not_running\",process_name=\"$JAVA_PROCESS_NAME\"} 0"
+    fi
+
+    # Push the metric to Pushgateway
+    echo -e "$VAR" | curl -s -X POST http://172.16.7.17:9091/metrics/job/java-process-monitoring/instance/my-machine --data-binary @-
+done
