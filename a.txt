@@ -1,0 +1,103 @@
+Mã thủ tục                    1.001071.000.00.00.H11
+
+
+Số quyết định                 2724/QĐ-UBND
+
+
+Tên thủ tục                   ĐĂNG KÝ TẬP SỰ HÀNH NGHỀ CÔNG CHỨNG
+
+
+Cấp thực hiện                 Cấp Tỉnh
+
+
+Loại thủ tục                  TTHC được luật giao quy định chi tiết
+
+
+Lĩnh vực                      (G15-TP04) Công chứng
+
+
+Mã DVCQG                      1.001071.000.00.00.H11.01
+
+
+Trình tự thực hiện
+                              - Người yêu cầu tập sự hành nghề công chứng nộp hồ sơ đăng ký tập sự hành nghề công chứng tại Bộ phận tiếp nhận và Trả kết quả Trung tâm hành chính công tỉnh (quầy Sở Tư pháp) nơi có tổ chức hành nghề công chứng
+                              nhận tập sự;
+                              - Sở Tư pháp ghi tên người đăng ký tập sự vào Danh sách Người tập sự hành nghề công chứng của Sở Tư pháp; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+
+
+Cách thức thực hiện
+                               Hình thức nộp                      Thời hạn giải quyết                                   Phí, Lệ phí                                                        Mô tả
+
+
+                               Trực tiếp                          7 Ngày làm việc                                                                                                          Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp
+                                                                                                                          Không có
+                                                                                                                                                                                           lệ
+
+
+                               Nộp trực tuyến                     7 Ngày làm việc                                                                                                          Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp
+                                                                                                                          Không có
+                                                                                                                                                                                           lệ
+
+
+                               Nộp qua bưu chính                  7 Ngày làm việc                                                                                                          Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp
+                                                                                                                          Không có
+                                                                                                                                                                                           lệ
+
+
+
+Thành phần hồ sơ
+                               Tên giấy tờ                                                                                                                               Mẫu đơn, tờ khai            Số lượng                   Mã giấy tờ
+
+
+                               Giấy đăng ký tập sự hành nghề công chứng theo Mẫu TP-TSCC-01 ban hành kèm theo Thông tư số 04/2015/TT-BTP ngày 15/4/2015 của              TP-TSCC-01.docx             Bản chính : 1              TP_000_00_00_G15-
+                               Bộ Tư pháp hướng dẫn tập sự hành nghề công chứng;                                                                                                                     Bản sao : 0                KQ0627
+
+
+                               Giấy chứng nhận tốt nghiệp khoá đào tạo nghề công chứng hoặc giấy chứng nhận hoàn thành khóa bồi dưỡng nghề công chứng (bản sao                                       Bản chính : 1              TP_000_00_00_G15-
+                               có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu)                                                                                                          Bản sao : 0                KQ0628
+
+
+
+Đối tượng thực hiện           Công dân Việt Nam
+
+
+Cơ quan thực hiện             Sở Tư pháp - tỉnh Bình Thuận
+
+
+Cơ quan có thầm               Sở Tư pháp - tỉnh Bình Thuận
+quyền
+
+
+Địa chỉ tiếp nhận HS          Tiếp nhận và trả kết quả tại Trung tâm HCC tỉnh (quầy Sở Tư pháp)
+
+
+Cơ quan được ủy               Sở Tư pháp - tỉnh Bình Thuận
+quyền
+
+
+Cơ quan phối hợp
+
+
+Kết quả thực hiện             Thông báo về việc đã ghi tên vào Danh sách Người tập sự của Sở Tư pháp
+
+
+Căn cứ pháp lý
+                                 STT        Số ký hiệu                                  Trích yếu                                                                                          Ngày ban hành                    Cơ quan ban hành
+
+
+                                   1        04/2015/TT-BTP                              Thông tư 04/2015/TT-BTP - Hướng dẫn tập sự hành nghề công chứng                                    2015-04-15                       000.00.00.G15
+
+
+                                   2        53/2014/QH13                                LUẬT Công chứng                                                                                    2014-06-20
+
+
+
+Yêu cầu, điều kiện            - Người yêu cầu tập sự hành nghề công chứng thuộc trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 13 của Luật Công chứng: + Người đang bị truy cứu trách nhiệm hình sự, đã bị kết tội bằng bản án
+thực hiện                     đã có hiệu lực pháp luật của Tòa án về tội phạm do vô ý mà chưa được xóa án tích hoặc về tội phạm do cố ý; + Người đang bị áp dụng biện pháp xử lý hành chính theo quy định của pháp luật về xử lý vi phạm hành chính; +
+                              Người bị mất hoặc bị hạn chế năng lực hành vi dân sự; + Cán bộ bị kỷ luật bằng hình thức bãi nhiệm, công chức, viên chức bị kỷ luật bằng hình thức buộc thôi việc hoặc sỹ quan, quân nhân chuyên nghiệp, công nhân, viên chức
+                              trong cơ quan, đơn vị thuộc Quân đội nhân dân, sỹ quan, hạ sỹ quan, công nhân, viên chức trong đơn vị thuộc Công an nhân dân bị kỷ luật bằng hình thức tước danh hiệu quân nhân, danh hiệu Công an nhân dân hoặc đưa ra
+                              khỏi ngành; + Người bị thu hồi chứng chỉ hành nghề luật sư do bị xử lý kỷ luật bằng hình thức xóa tên khỏi danh sách của Đoàn luật sư, người bị tước quyền sử dụng chứng chỉ hành nghề luật sư mà chưa hết thời hạn 03 năm kể
+                              từ ngày quyết định thu hồi chứng chỉ hành nghề luật sư có hiệu lực hoặc kể từ ngày chấp hành xong quyết định tước quyền sử dụng chứng chỉ hành nghề luật sư; - Người đang là cán bộ, công chức, viên chức (trừ viên chức làm
+                              việc tại Phòng công chứng), sỹ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sỹ quan, hạ sỹ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân.
+
+
